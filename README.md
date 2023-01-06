@@ -1,16 +1,3 @@
-# flutter_provider1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/56622810/210923008-cef6f63c-c055-49a6-9051-f0a909f531bc.png">
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/56622810/210923035-544d8652-2b27-44cf-b9f8-e2d4964880fe.png">
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/56622810/210923055-3eadc7ef-6cef-4b8f-bcb1-e06059e09af9.png">
